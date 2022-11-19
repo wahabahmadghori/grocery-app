@@ -1,0 +1,1 @@
+class Listcard1ItemModel {}
